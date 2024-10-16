@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "670fd211c2f1ad621ad6a7e9_25528e98-f287-40c7-ac5a-59a66812ec20",
+  "id": "Page1_GetOrders1",
+  "moduleUUID": "ecd7e8de-0544-40f2-b76c-3d28f8ed82c1",
+  "packageUUID": "999e0092-88f9-4a17-85f4-4e71cff74950",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "moduleInputs": {},
+    "name": "GetOrders1",
+    "pageId": "Page1",
+    "version": "0.0.3"
+  }
+}

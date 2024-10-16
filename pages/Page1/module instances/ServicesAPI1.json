@@ -1,0 +1,33 @@
+{
+  "gitSyncId": "670fd211c2f1ad621ad6a7e9_fb882770-f10e-4978-89be-68525433ef0b",
+  "id": "Page1_ServicesAPI1",
+  "moduleUUID": "ad90e0f8-2ff3-47e9-82c4-b88fb07b3854",
+  "packageUUID": "999e0092-88f9-4a17-85f4-4e71cff74950",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "getAllOrders": "[]",
+      "getAllSuppliers": "[]"
+    },
+    "moduleInputs": {
+      "jffyquezde": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "jffyquezde",
+        "label": "getAllSuppliers",
+        "propertyName": "inputs.getAllSuppliers"
+      },
+      "tkwbysvgdr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "tkwbysvgdr",
+        "label": "getAllOrders",
+        "propertyName": "inputs.getAllOrders"
+      }
+    },
+    "name": "ServicesAPI1",
+    "pageId": "Page1",
+    "version": "0.0.3"
+  }
+}
